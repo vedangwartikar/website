@@ -1,16 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/vedartm/v4/master/src/images/logo_color.png" width="100" />
+  <img alt="Logo" src="https://avatars.githubusercontent.com/u/43764240?s=400&u=3add664d5ff68358f4442dd94b0b1a82291673e8&v=4" width="100" />
 </div>
 <h1 align="center">
-vedartm.com
+vedang.dev
 </h1>
 <p align="center">
-  The portfolio website <a href="https://vedartm.com" target="_blank">vedartm.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/excogitatr/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  <a href="https://vedang.dev" target="_blank">vedang.dev</a>
 </p>
 
 ## 🛠 Installation & Set Up
