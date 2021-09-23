@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Venkatesh Prasad | Software Engineer',
+  siteTitle: 'Vedang Wartikar',
   siteDescription:
-    'Venkatesh Prasad is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Venkatesh Prasad is a Software Engineer based in Pune.',
   siteKeywords:
-    'Venkatesh Prasad, Venkatesh, Prasad, excogitatr, software engineer, front-end engineer, flutter developer, dart, developer',
-  siteUrl: 'https://vedartm.com',
+    'Vedang Wartikar, Vedang, Wartikar, software engineer, backend engineer, developer',
+  siteUrl: 'https://vedang.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Venkatesh Prasad V M',
-  location: 'Bengaluru, KA',
-  email: 'venkatesh@vedartm.com',
-  github: 'https://github.com/vedartm',
-  twitterHandle: '@vedart_m',
+  name: 'Vedang Wartikar V W',
+  location: 'Pune, IN',
+  email: 'vedangwartikar17@gmail.com',
+  github: 'https://github.com/vedangwartikar',
+  twitterHandle: '@vedangwartikar',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/vedartm',
+      url: 'https://github.vedang.dev',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vedart',
+      url: 'https://www.linkedin.vedang.dev',
     },
     // {
     //   name: 'Codepen',
@@ -32,7 +32,7 @@ module.exports = {
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/vedart_m',
+      url: 'https://twitter.com/vedangwartikar',
     },
   ],
 
