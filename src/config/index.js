@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Vedang Wartikar',
   siteDescription:
-    'Venkatesh Prasad is a Software Engineer based in Pune.',
+    'Vedang Wartikar is a Software Engineer based in Pune.',
   siteKeywords:
     'Vedang Wartikar, Vedang, Wartikar, software engineer, backend engineer, developer',
   siteUrl: 'https://vedang.dev',

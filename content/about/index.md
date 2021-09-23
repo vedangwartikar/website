@@ -2,18 +2,20 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Flutter (Android, iOS)
-  - Golang
-  - Node.js, Express
-  - GraphQL, REST
-  - AWS, Hasura, Firebase
-  - VS code, Vim
+  - Amadeus
+  - Git
+  - Python
+  - Django
+  - Memento
+  - Docker
+  - Inception
+  - Gladiator
 ---
 
-Hello World! I'm Venkatesh Prasad, an entrepreneur by day and an open-source contributor by night.
+Hello World! I'm Vedang. I'm a software engineer by day and a cinephile by night. I am working with Persistent on IBM's Power8 platform for the Open-Source community. I believe I have decent experience in Data Science, which I garnered during my internship at Sirpi, a Bangalore based start-up. Prior to that, I interned at a FinTech start-up RhythmFlows where I lead a small team for an Analytics and a Bank Reconciliation project.
 
-As a young entrepreneur, I love solving problems on a global scale using technology. I am always looking for a chance to obtain creative and challenging problem that allows me to learn while lending my contribution using my technical, innovative and logical skills.
+I'm a huge fan of the open-source community and I have self-hosted my own movie, photo and cloud server (All of that for FREE!). Drop in a message if you want to know how.
 
-Other than building products, I love to play guitar, pencil sketch, and play tennis.
+Other than coding(most of which is debugging), I love to play Piano.
 
-Here are a few technologies I've been working with recently:
+Here are some my favourite movies and the techologies which I have worked on. I'll leave it up to you to figure out which is which, so good luck:
