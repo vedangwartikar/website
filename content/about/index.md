@@ -8,8 +8,8 @@ skills:
   - C/C++
   - UNIX/Linux
   - R
-  - PostgreSQL
   - Git
+  - Drupal
   - PostgreSQL
   - Django
 ---
