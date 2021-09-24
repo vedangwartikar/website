@@ -3,7 +3,7 @@ date: '2017-05-15'
 title: 'Software Engineering Intern'
 company: 'RhythmFlows'
 location: 'Bengaluru'
-range: 'Mar 2019 - Aug 2019'
+range: 'May 2020 - Aug 2020'
 url: 'https://rhythmflows.com/'
 ---
 

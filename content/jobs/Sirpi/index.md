@@ -3,7 +3,7 @@ date: '2020-08-17'
 title: 'Data Science Intern'
 company: 'Sirpi'
 location: 'Bengaluru, KA'
-range: 'Aug - Nov 2020'
+range: 'Aug 2020 - Nov 2020'
 url: 'https://sirpi.io'
 ---
 
