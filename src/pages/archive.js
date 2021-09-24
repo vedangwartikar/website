@@ -99,8 +99,8 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Venkatesh Prasad</title>
-        <link rel="canonical" href="https://vedartm.com/archive" />
+        <title>Archive | Vedang Wartikar</title>
+        <link rel="canonical" href="https://vedang.dev/archive" />
       </Helmet>
 
       <StyledMainContainer>
