@@ -85,10 +85,10 @@ const Footer = () => (
     </StyledSocial>
     <StyledMetadata tabindex="-1">
       <StyledGitHubLink
-        href="https://www.github.com/vedartm/v4"
+        href="https://www.github.com/vedangwartikar/website"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Redesigned by vedartm forked from BC</div>
+        <div>Redesigned by vedangwartikar && Designed by bchiang7</div>
       </StyledGitHubLink>
     </StyledMetadata>
   </StyledContainer>
