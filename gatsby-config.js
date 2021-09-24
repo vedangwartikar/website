@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Venkatesh Prasad V M',
-        short_name: 'Venkatesh',
+        name: 'Vedang Wartikar',
+        short_name: 'Vedang',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
