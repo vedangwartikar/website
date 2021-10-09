@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Telegram Bot which gives a random GRE Word from the Magoosh Dataset. Check it out [here](https://t.me/dogecoin_updates_bot)
+Telegram Bot which gives a random GRE Word from the Magoosh Dataset. Check it out [here](http://t.me/gre_word_bot)
