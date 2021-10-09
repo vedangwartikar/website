@@ -1,5 +1,5 @@
 ---
-date: '2017-05-15'
+date: '2020-05-15'
 title: 'Software Engineering Intern'
 company: 'RhythmFlows'
 location: 'Bengaluru'
