@@ -88,7 +88,7 @@ const Footer = () => (
         href="https://www.github.com/vedangwartikar/website"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Redesigned by vedangwartikar && Designed by bchiang7</div>
+        <div>Redesigned by vedangwartikar from bchiang7's v4</div>
       </StyledGitHubLink>
     </StyledMetadata>
   </StyledContainer>
