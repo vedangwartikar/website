@@ -8,8 +8,8 @@ url: 'https://www.persistent.com/'
 ---
 
 - Linux on Power (LoP) Team:
-    - Part of the core developement team of BulkSearch tool which validates the currency (availability) of open-source packages on IBM’s POWER8 machines with ppc64le architecture
-    - It is built using Python and is configured to use detached docker containers to automate the process of installing/building/testing open-source packages from a variety of languages, and has reduced the team’s manual effort by over 80%
+    - Working on a MVP that acts as a management and analytics dashboard for open-source packages available on IBM's ppc64le architecture. Building it using Python, FastAPI, Uvicorn webserver, Elasticsearch and ReactJS for UI.
+    - Part of the core developement team of BulkSearch tool which validates the currency (availability) of open-source packages on IBM’s POWER8 machines and is configured to install/build/test packages from a variety of languages, and has reduced the team’s manual effort by over 80%
     - The primary goal of this tool is to introduce an application-level parallelism between Intel's x86 and IBM's ppc64le architectures
     - Enhanced the tool by automating the handling of massive CSV/Excel-based data by employing different data preprocessing and validation techniques
     - Found an efficient way of automating the setting up of a production-ready Drupal Webserver on POWER using Dockerfiles, Docker containers and shell scripts and incorporated the Drupal logic into existing BulkSearch tool
