@@ -15,6 +15,7 @@ url: 'https://www.persistent.com/'
     - Found an efficient way of automating the setting up of a production-ready Drupal Webserver on POWER using Dockerfiles, Docker containers and shell scripts and incorporated the Drupal logic into existing BulkSearch tool
     - Researched databases - MySQL, MariaDB, SQLite and PostgreSQL for finding optimal database for integration with Drupal webserver on IBM POWER
     - Reviewing code and Publishing build scripts @ [ppc64le/build-scripts](https://github.com/ppc64le/build-scripts) for Open Source packages to run on IBM's POWER8 system
+    - Mentored and onboarded 8 new graduate joinees by assisting them during techinical doubts/errors and helped by sharing suitable training materials
 - L&D Department (POC Project):
     - Built a Drone Surveillance System that detects the presence of a crowd from the proximity of pedestrians
     - A Keras RetinaNet model is trained on a custom dataset and a video can be fed for real-time crowd detection
