@@ -3,7 +3,7 @@ date: '2020-11-18'
 title: 'Software Engineer'
 company: 'Persistent'
 location: 'Pune, MH'
-range: 'Nov 2020 - Present'
+range: 'Nov 2020 - Jul 2022'
 url: 'https://www.persistent.com/'
 ---
 
