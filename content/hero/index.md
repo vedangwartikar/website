@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Vedang Wartikar'
-subtitle: 'I am currently looking for Summer 2023 Internships.'
+subtitle: 'I like to build stuff!'
 contactText: 'Get In Touch'
 ---
 
