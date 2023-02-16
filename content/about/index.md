@@ -14,9 +14,9 @@ skills:
   - Django
 ---
 
-I'm a software engineer by day and a cinephile by night. Currently, I am working with [Persistent](https://www.persistent.com/) on [IBM's Power8](https://www.ibm.com/it-infrastructure/power) platform for the Open-Source community. I believe I have decent experience in Data Science, which I garnered during my internship at [Sirpi](https://www.sirpi.io/), a start-up based out in Bangalore. Prior to that, I interned at a FinTech start-up [RhythmFlows](https://rhythmflows.com/) where I lead a small team for 4 interns for an Analytics and a Bank Reconciliation project.
+I'm a techie by day and a cinephile by night. I am student as of now, but in the past I have worked with [Persistent](https://www.persistent.com/) on [IBM's Power8](https://www.ibm.com/it-infrastructure/power) platform for the Open-Source community. I believe I have decent experience in Data Science, which I garnered during my internship at [Sirpi](https://www.sirpi.io/), a start-up based out in Bangalore. Prior to that, I interned at a FinTech start-up [RhythmFlows](https://rhythmflows.com/) where I lead a small team for 4 interns for an Analytics and a Bank Reconciliation project.
 
-I'm a huge fan of the open-source community and I have self-hosted my own movie, photo and cloud server on a VPS. Here's a self-hosted photo album from the trek - [Andharban Valley](https://photos.vedang.dev/share/WZ5HJIO4) which I recently visited, and here's my [Self-hosted Resume](https://resume.vedang.dev/). Want to play the famous game Wordle? Dive right in at [wordle.vedang.dev](https://wordle.vedang.dev)
+I'm a huge fan of the open-source community and I have self-hosted my own movie, photo and cloud server on a VPS. Here's a self-hosted photo album from the trek - [Andharban Valley](https://photos.vedang.dev/share/WZ5HJIO4) which I recently visited, and here's my [Self-hosted Resume](https://resume.vedang.dev/). Want to play chess with me? Head to [chess.vedang.dev](https://chess.vedang.dev). Have a chat (filled with awkward silences) with me? Book your time [here](https://vedang.youcanbook.me).
 
 
 Other than coding (most of which includes debugging), I love to play the Piano.
