@@ -1,9 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Vedang Wartikar'
-subtitle: 'I like to build stuff!'
+subtitle: 'Intern @ CommScope'
 contactText: 'Get In Touch'
 ---
 
-Systems Engineering Intern in the Networking, Intelligent Cellular & Security (NICS) Engineering team at [CommScope](https://www.commscope.com). <br /> <br />
-I’m a Master's student majoring in CS at [The University of Texas at Dallas](https://www.utdallas.edu). Previously, I was building streamline products at [Persistent](https://www.persistent.com/) to make open-source softwares more accessible to the community. I also know a bit about Data Science and I love to build and automate stuff.
+I’m a Master's student majoring in CS at [The University of Texas at Dallas](https://www.utdallas.edu). For the Summer, I'm a Systems Engineering Intern in the Networking, Intelligent Cellular & Security (NICS) Engineering team at [CommScope](https://www.commscope.com).
