@@ -2,7 +2,7 @@
 date: '2018-12-29'
 title: 'Process Monitoring Tool (ProcMon)'
 github: 'https://github.com/vedangwartikar/procmon'
-external: 'https://github.com/vedangwartikar/procmon'
+external: ''
 tech:
   - C++
   - tlhelp32
