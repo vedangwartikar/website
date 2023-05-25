@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Vedang Wartikar'
-subtitle: 'I like to build stuff!'
+subtitle: 'Intern @ [CommScope](https://www.commscope.com)'
 contactText: 'Get In Touch'
 ---
 
