@@ -1,6 +1,6 @@
 ---
 date: '2023-05-22'
-title: 'Systems Engineering Intern'
+title: 'Software Engineering Intern - Systems'
 company: 'CommScope'
 location: 'Dallas, TX'
 range: 'May 2023 - Present'
